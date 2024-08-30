@@ -76,9 +76,9 @@ License
 
 MIT
 
-Soruce
+Epias Links
 ----
 
-https://seffaflik.epias.com.tr/transparency/
-
-https://seffaflik.epias.com.tr/transparency/technical/en/
+- [Homepage](https://seffaflik.epias.com.tr/home)
+- [User signup](https://kayit.epias.com.tr/epias-transparency-platform-registration-form)
+- [Web Services Usage Guide](https://seffaflik.epias.com.tr/documentation/web-service-user-guide)
